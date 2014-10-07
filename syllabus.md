@@ -1,4 +1,4 @@
-// work in progress
+// these are notes and work in progress
 
 # Critical Theory of Technology
 
@@ -9,10 +9,15 @@
 * **Links:**
     * [Schedule](schedule.md)
     * [Assignment workflow](workflow.md)
-    * [Mailing list](https://groups.google.com/a/nyu.edu/forum/#!forum/bfl-f14-group)
+    * [Students]()
 
 ## Course description
+As artists, makers and technologists, we do not create in a vaccuum. Why do we make what we make? There is a long history of theory that precedes us. What
 
+//how is politics, utopia and code a part of this?
+what is the political realm - in creating "openness" are we actually centralizing power
+whose utopia and what is it?
+smart everything
 
 ## Schedule
 
