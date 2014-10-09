@@ -18,10 +18,11 @@ whose utopia and what is it?
 smart everything
 
 #Schedule
+
 ## Week 1
 	* Friday, October 10th, 1pm
-# In Class
-# Readings 
+## In Class
+## Readings 
 
 ## Week 2
 * Friday, October 17th, 1pm
@@ -30,12 +31,16 @@ smart everything
 
 ## Week 3
 * Friday, October 24th, 1pm
-# In Class
-# Readings 
+
+## In Class
+
+## Readings 
 
 ## Week 4
 * Friday, October 31st, 1pm
+
 ## In Class
+
 ## Readings 
 
 ## Week 5
