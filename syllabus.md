@@ -1,5 +1,3 @@
-// these are notes and work in progress
-
 # Critical Theory of Technology
 
 * **Course:** Politics, Utopia and Code, Fall 2014
@@ -20,11 +18,49 @@ whose utopia and what is it?
 smart everything
 
 ## Schedule
+# Week 1
+	* Friday, October 10th, 1pm
+# In Class
+# Readings 
 
-## Expectations
+# Week 2
+* Friday, October 17th, 1pm
+# In Class
+# Readings 
 
-* Read everything
-* Come prepared
-* Laptops closed
-* Final class project
+# Week 3
+* Friday, October 24th, 1pm
+# In Class
+# Readings 
+
+# Week 4
+* Friday, October 31st, 1pm
+# In Class
+# Readings 
+
+# Week 5
+* Friday, November 7th, 1pm
+# In Class
+# Readings 
+
+# Week 6
+* Friday, November 14th, 1pm
+# In Class
+# Readings 
+
+# Week 7
+* Friday, November 21st, 1pm
+# In Class
+# Readings 
+
+#Weeks 8 - 10 will be TBD and discussed in the coming weeks. Perhaps there is an area of study that SFPC students wish to explore, perhaps this is spent preparing and discussing our final project together.
+
+## Expectations and Structure
+
+* Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.
+* Each week, two people from the class will present that week's readings. 
+* As this is primarily a discussion-based class, let's have all laptops closed. See Clay Shirkey's post on how this is actually better for everyone.
+* Help create a final class project.
+* Blog weekly about the readings and your thoughts.
+* 
 
