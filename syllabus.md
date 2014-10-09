@@ -21,37 +21,39 @@ smart everything
 
 ## Week 1
 	* Friday, October 10th, 1pm
-## In Class
-## Readings 
+### In Class
+### Readings 
 
 ## Week 2
 * Friday, October 17th, 1pm
-# In Class
-# Readings 
+
+### In Class
+
+### Readings 
 
 ## Week 3
 * Friday, October 24th, 1pm
 
-## In Class
+### In Class
 
-## Readings 
+### Readings 
 
 ## Week 4
 * Friday, October 31st, 1pm
 
-## In Class
+### In Class
 
-## Readings 
+### Readings 
 
 ## Week 5
 * Friday, November 7th, 1pm
-## In Class
-## Readings 
+### In Class
+### Readings 
 
 ## Week 6
 * Friday, November 14th, 1pm
-## In Class
-## Readings 
+### In Class
+### Readings 
 
 ## Week 7
 * Friday, November 21st, 1pm
