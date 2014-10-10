@@ -60,16 +60,15 @@ This class at SFPC will provide a critical discussion on some of the most releva
 	* Baudrillard, Badiou
 	* Critical Art Ensemble
 
-
 ##Weeks 8 - 10 
 We'll discuss the content and structure of the final weeks soon. Perhaps there is an area of study that SFPC students wish to explore, perhaps this is spent preparing and discussing our final project together.
 
-* **Links:**
+
+### **Links:**
     * [Schedule](schedule.md)
-    * [Assignment workflow](workflow.md)
     * [Students]()
 
 ### **Acknowledgements:**
-	* This class is partially inspired by [David Nolen](https://swannodette.github.io/)'s class "Bicycles for the Mind," which I took in a Fall 2013 course at [ITP/NYU](http://itp.nyu.edu/itp/). Also thanks to Alexander Galloway and countless others for making their syllabi accessible online. 
+* This class is partially inspired by [David Nolen](https://swannodette.github.io/)'s class "Bicycles for the Mind," which I took in a Fall 2013 course at [ITP/NYU](http://itp.nyu.edu/itp/). Also thanks to Alexander Galloway and countless others for making their syllabi accessible online. 
 
 
