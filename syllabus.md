@@ -4,6 +4,7 @@
 * **Location:** [School for Poetic Computation](http://sfpc.io/) | [@sfpc_school](https://twitter.com/sfpc_school) | [Orbital Labs, 4th Floor](http://orbitalnyc.com/)
 * **When:** Fridays at 1pm
 * **Instructor:** [Allison Burtch](http://allisonburtch.net), [allison@sfpc.io](mailto:allison@sfpc.io)
+* **[Schedule:](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md#schedule)**
 
 ## Course description
 
@@ -45,8 +46,7 @@ This class at SFPC will provide a critical discussion on some of the most releva
 * Friday, October 31st, 1pm
 * Readings
 	* Ursula K. Le Guin - ["A Non-Euclidean View of California as a Cold Place to Be"](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be)
-	* Bruce Sterling
-
+	
 ## Week 5 - Messaging and Language
 * Friday, November 7th, 1pm
 	* Jodi Dean, Communicative Capitalism
@@ -54,10 +54,15 @@ This class at SFPC will provide a critical discussion on some of the most releva
 
 ## Week 6 - Internet of Things
 * Friday, November 14th, 1pm
+* Bruce Sterling, "The Epic Struggle of the Internet of Things"
+
+## Week 7 - Privacy and Surveillance
+* Friday, November 21st, 1pm
 
 ## Week 7 - Political Change and Riots
-* Friday, November 21st, 1pm
-	* Baudrillard, Badiou
+* Friday, November 28th, 1pm (This is Thanksgiving weekend - perhaps we should reschedule this to an earlier day?)
+	* Jean Baudrillard
+	* Alan Badiou
 	* Critical Art Ensemble
 
 ##Weeks 8 - 10 
