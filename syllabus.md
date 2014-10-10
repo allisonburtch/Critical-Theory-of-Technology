@@ -21,28 +21,22 @@ This class at SFPC will provide a critical discussion on some of the most releva
 * Brainstorm and create a final class project.
 * Blog weekly about the readings and your thoughts.
 
-
-* **Links:**
-    * [Schedule](schedule.md)
-    * [Assignment workflow](workflow.md)
-    * [Students]()
-
 #Schedule
 
 ## Week 1
 * Friday, October 10th, 1pm
 * In Class
-What is critical theory? How can this be applied to technology? In class we'll watch [All Watched Over by Machines of Love and Grace](https://vimeo.com/38724174)
+What is critical theory? How can this be applied to technology? In class we'll watch [All Watched Over by Machines of Love and Grace](https://vimeo.com/38724174) and discuss the goals for the class.
 * Readings 
-	* Mindstorms
-
+	* _Mindstorms_ by Seymour Papert
+		- "In the chapters that follow I shall try to give you some idea of these possibilities, many of which are dependent on a computer-rich future, a future where a computer will be a significant part of every child's life. But I want my readers to be very clear that what is "utopian" in my vision and in this book is a particular way of using computers, of forging new relationships between computers and people -- that the computer will be there to be used is simply a conservative premise"
+	* Alan Kay - ["Face to Face: Alan Kay Still Waiting for the Revolution"](http://www.scholastic.com/browse/article.jsp?id=5)
+	* Steve Jobs - ["Bicycles for the mind"](http://www.youtube.com/watch?v=ob_GX50Za6c) 
 
 ## Week 2
 * Friday, October 17th, 1pm
-
-### In Class
-
-### Readings 
+* In Class
+* Readings
 
 ## Week 3
 * Friday, October 24th, 1pm
@@ -75,4 +69,10 @@ What is critical theory? How can this be applied to technology? In class we'll w
 
 #Weeks 8 - 10 
 We'll discuss the content and structure of the final weeks soon. Perhaps there is an area of study that SFPC students wish to explore, perhaps this is spent preparing and discussing our final project together.
+
+* **Links:**
+    * [Schedule](schedule.md)
+    * [Assignment workflow](workflow.md)
+    * [Students]()
+
 
