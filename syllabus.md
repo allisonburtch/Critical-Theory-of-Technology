@@ -10,6 +10,8 @@
     * [Students]()
 
 ## Course description
+
+With contemporary society and our collective future irrevoably changed by ubiquitous technology, how, as makers, artists and technologists, do we frame the questions we ask ourselves about the world? This class is less focused on art or what others have made and more on the current state of mdoern society. is one immersed in technology. What was the vision of J.R. Licklider, ? 
 As artists, makers and technologists, we do not create in a vaccuum. Why do we make what we make? There is a long history of theory that precedes us. What
 
 //how is politics, utopia and code a part of this?
@@ -17,11 +19,14 @@ what is the political realm - in creating "openness" are we actually centralizin
 whose utopia and what is it?
 smart everything
 
+My goal is to combine some of the rather rigorous philosophical texts with short stories and essays
+
 #Schedule
 
 ## Week 1
-	* Friday, October 10th, 1pm
+* Friday, October 10th, 1pm
 ### In Class
+What is critical theory? How can this be applied to technology? In class we'll watch [All Watched Over by Machines of Love and Grace](https://vimeo.com/38724174)
 ### Readings 
 
 ## Week 2
