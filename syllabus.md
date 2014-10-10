@@ -11,7 +11,11 @@
 
 ## Course description
 
-With contemporary society and our collective future irrevoably changed by ubiquitous technology, how, as makers, artists and technologists, do we frame the questions we ask ourselves about the world? This class is less focused on art or what others have made and more on the current state of mdoern society. is one immersed in technology. What was the vision of J.R. Licklider, ? 
+What do politics, utopia and code have in common? The vast influx of telecommunications infrastructure has coincided with a massive centralization of wealth and power. Has this barrage of spectacles on screens actually brokered global inequality? What was the utopian goal of those who initially created computers?
+
+With contemporary society and our collective future irrevoably changed by ubiquitous technology, how, as makers, artists and technologists, do we frame the questions we ask ourselves about the world? This class is less focused on art or what others have made and more on the current state of mdoern society. is one immersed in technology. The title is "Politics, Utopia and Code" because I want to be able to provide a critical discussion on some of the most relevant aspects of the technological society today and this will be an opportunity to discuss it. We'll draw from critical theorists Alexander Galloway and Jean Baudrillard, political theorists such as Alan Badiou and Jodi Dean, and science fiction writers such as Bruce Sterling and Ursula K Le Guin. 
+
+B What was the vision of J.R. Licklider, ? 
 As artists, makers and technologists, we do not create in a vaccuum. Why do we make what we make? There is a long history of theory that precedes us. What
 
 //how is politics, utopia and code a part of this?
@@ -25,9 +29,11 @@ My goal is to combine some of the rather rigorous philosophical texts with short
 
 ## Week 1
 * Friday, October 10th, 1pm
-### In Class
+* In Class
 What is critical theory? How can this be applied to technology? In class we'll watch [All Watched Over by Machines of Love and Grace](https://vimeo.com/38724174)
-### Readings 
+* Readings 
+	* Mindstorms
+
 
 ## Week 2
 * Friday, October 17th, 1pm
