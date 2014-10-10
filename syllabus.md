@@ -4,10 +4,6 @@
 * **Location:** [School for Poetic Computation](http://sfpc.io/) | [@sfpc_school](https://twitter.com/sfpc_school) | [Orbital Labs, 4th Floor](http://orbitalnyc.com/)
 * **When:** Fridays at 1pm
 * **Instructor:** [Allison Burtch](http://allisonburtch.net), [allison@sfpc.io](mailto:allison@sfpc.io)
-* **Links:**
-    * [Schedule](schedule.md)
-    * [Assignment workflow](workflow.md)
-    * [Students]()
 
 ## Course description
 
@@ -24,6 +20,21 @@ whose utopia and what is it?
 smart everything
 
 My goal is to combine some of the rather rigorous philosophical texts with short stories and essays
+
+
+## Expectations and Structure
+
+* Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.
+* Each week, two people from the class will present that week's readings. 
+* As this is primarily a discussion-based class, let's have all laptops closed. See Clay Shirkey's post on how this is actually better for everyone.
+* Help create a final class project.
+* Blog weekly about the readings and your thoughts.
+
+
+* **Links:**
+    * [Schedule](schedule.md)
+    * [Assignment workflow](workflow.md)
+    * [Students]()
 
 #Schedule
 
@@ -73,13 +84,4 @@ What is critical theory? How can this be applied to technology? In class we'll w
 
 #Weeks 8 - 10 
 We'll discuss the content and structure of the final weeks soon. Perhaps there is an area of study that SFPC students wish to explore, perhaps this is spent preparing and discussing our final project together.
-
-## Expectations and Structure
-
-* Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.
-* Each week, two people from the class will present that week's readings. 
-* As this is primarily a discussion-based class, let's have all laptops closed. See Clay Shirkey's post on how this is actually better for everyone.
-* Help create a final class project.
-* Blog weekly about the readings and your thoughts.
-* 
 
