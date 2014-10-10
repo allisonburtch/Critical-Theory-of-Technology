@@ -9,43 +9,16 @@
 
 The vast influx of telecommunications infrastructure has coincided with a massive centralization of wealth and power. How has this barrage of spectacles on screens brokered global inequality? What was the utopian goal of early tech-creators, and were those values embodied in the design of the tools we use today? 
 
-With contemporary society and our collective future irrevocably changed by ubiquitous technology, the questions that makers, artists and technologists pose to society are critically important. 
+With contemporary society and our collective future irrevocably changed by ubiquitous technology, the questions that makers, artists and technologists pose to society are increasingly relevant. 
 
-
-
- how, as makers, artists and technologists, do we frame the questions we ask ourselves about the world? This class is less focused on art or what others have made and more on the current state of mdoern society. is one immersed in technology. The title is "Politics, Utopia and Code" because I want to be able to provide a critical discussion on some of the most relevant aspects of the technological society today and this will be an opportunity to discuss it. We'll draw from critical theorists Alexander Galloway and Jean Baudrillard, political theorists such as Alan Badiou and Jodi Dean, and science fiction writers such as Bruce Sterling and Ursula K Le Guin. 
-
-B What was the vision of J.R. Licklider, ? 
-As artists, makers and technologists, we do not create in a vaccuum. Why do we make what we make? There is a long history of theory that precedes us. What
-
-//how is politics, utopia and code a part of this?
-what is the political realm - in creating "openness" are we actually centralizing power
-whose utopia and what is it?
-smart everything
-
-My goal is to combine some of the rather rigorous philosophical texts with short stories and essays
-
-
-Critical Theory of Technology
-What was the goal?
-No More Utopias 
-- Ursula K. Le Guin
-Communicative Capitalism
-- Jodi Dean
-- Foucault
-- 
-Smart Cities and the #IoT
-- Bruce Sterling
-Politics and Riots
-- Badiou
-- Jodi Dean
+This class at SFPC will provide a critical discussion on some of the most relevant aspects of technological society today. We'll draw from theorists such as Jean Baudrillard, Jodi Dean and Alexander Galloway, and science fiction writers such as Bruce Sterling and Ursula K Le Guin. 
 
 ## Expectations and Structure
 
-* Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.
 * Each week, two people from the class will present that week's readings. 
-* As this is primarily a discussion-based class, let's have all laptops closed. See Clay Shirkey's post on how this is actually better for everyone.
-* Help create a final class project.
+* Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.
+* As this is primarily a discussion-based class, let's have all laptops closed. See [Clay Shirky's post on Medium](https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368) about how this is better for everyone.
+* Brainstorm and create a final class project.
 * Blog weekly about the readings and your thoughts.
 
 
