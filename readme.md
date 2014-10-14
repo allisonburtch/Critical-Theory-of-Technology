@@ -9,3 +9,4 @@
 ##[Syllabus](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md)
 
 ##Students' Blogs
+* [Toru Urakawa](http://trurkw.tumblr.com/)
