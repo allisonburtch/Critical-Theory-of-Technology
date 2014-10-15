@@ -10,3 +10,4 @@
 
 ##Students' Blogs
 * [Toru Urakawa](http://trurkw.tumblr.com/)
+* [Lauren Gardner](https://www.tumblr.com/blog/solutionizing)
