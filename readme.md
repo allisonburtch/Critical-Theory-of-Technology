@@ -11,3 +11,20 @@
 ##Students' Blogs
 * [Toru Urakawa](http://trurkw.tumblr.com/)
 * [Lauren Gardner](https://www.tumblr.com/blog/solutionizing)
+* [Meghana Khandekar](http://mkhandekar.tumblr.com/)
+
+## Presentation Schedule
+* Week 2 - What was the vision?
+	- Lauren and Toru
+* Week 3 - Decentralization and its Discontents
+	- Christo Allegra and Defne Onen
+* Week 4 - Utopias and Sci Fi
+	- Paige and Rachel
+* Week 5 - Messaging and Language
+	- Franc and Jonas
+* Week 6 - Internet of Things
+	- Zach and Sarah
+* Week 7 - Privacy and Surveillance
+	- Todd and Yuki
+* Week 8 - Political Change and Riots
+	- Andrew and meghana

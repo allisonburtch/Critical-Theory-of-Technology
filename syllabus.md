@@ -36,6 +36,8 @@ This class at SFPC will provide a critical discussion on some of the most releva
 		"In the chapters that follow I shall try to give you some idea of these possibilities, many of which are dependent on a computer-rich future, a future where a computer will be a significant part of every child's life. But I want my readers to be very clear that what is "utopian" in my vision and in this book is a particular way of using computers, of forging new relationships between computers and people -- that the computer will be there to be used is simply a conservative premise"
 	* Alan Kay - ["Face to Face: Alan Kay Still Waiting for the Revolution"](http://www.scholastic.com/browse/article.jsp?id=5)
 	* Steve Jobs - ["Bicycles for the mind"](http://www.youtube.com/watch?v=ob_GX50Za6c) 
+	* Belinda Barnet [interview from 2007](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), if you have time.
+	* [Douglas Engelbart](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos), [Mother of all Demos](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), 1968
 
 ## Week 3 - Decentralization and its Discontents
 * Friday, October 24th, 1pm
@@ -55,6 +57,8 @@ This class at SFPC will provide a critical discussion on some of the most releva
 ## Week 6 - Internet of Things
 * Friday, November 14th, 1pm
 * Bruce Sterling, "The Epic Struggle of the Internet of Things"
+* articles
+	* [#IoT and intelligence community](http://www.informationweek.com/government/big-data-analytics/internet-of-things-intrigues-intelligence-community/d/d-id/1316025)
 
 ## Week 7 - Privacy and Surveillance
 * Friday, November 21st, 1pm
