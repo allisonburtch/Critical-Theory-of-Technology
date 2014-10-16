@@ -43,7 +43,9 @@ This class at SFPC will provide a critical discussion on some of the most releva
 ## Week 3 - Decentralization and its Discontents
 * Friday, October 24th, 1pm
 * Readings
-	* Alexander Galloway, _Protocol_
+	* Alexander Galloway, _Protocol_, pgs 3-53 (Introduction and Ch 1 'Physical Media,' though the whole book is worth reading)
+	* [21 Technologies That Will Decentralize the World](http://www.shareable.net/blog/21-technologies-that-will-decentralize-the-world)
+	* Jo Freeman, "[The Tyranny of Structurelessness](http://www.historyisaweapon.com/defcon1/tyrstruct.html)"
 
 ## Week 4 - Utopias and Sci Fi
 * Friday, October 31st, 1pm
