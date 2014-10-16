@@ -77,6 +77,6 @@ We'll discuss the content and structure of the final weeks soon. Perhaps there i
 * [Students](https://github.com/allisonburtch/Critical-Theory-of-Technology#students-blogs)
 
 ### Acknowledgements
-* This class is partially inspired by [David Nolen](https://swannodette.github.io/)'s class "Bicycles for the Mind," which I took in a Fall 2013 course at [ITP/NYU](http://itp.nyu.edu/itp/). Also thanks to Alexander Galloway and countless others for making their syllabi accessible online. 
+* This class is partially inspired by [David Nolen](https://swannodette.github.io/)'s class "Bicycles for the Mind," which I took in a Fall 2013 course at [ITP/NYU](http://itp.nyu.edu/itp/). Also thanks to [Alexander Galloway](http://cultureandcommunication.org/galloway/2010fall-Politics_of_Code_syllabus.pdf) and countless others for making their syllabi accessible online. 
 
 
