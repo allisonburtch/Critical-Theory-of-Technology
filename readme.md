@@ -12,6 +12,7 @@
 * [Toru Urakawa](http://trurkw.tumblr.com/)
 * [Lauren Gardner](https://www.tumblr.com/blog/solutionizing)
 * [Meghana Khandekar](http://mkhandekar.tumblr.com/)
+* [Andrew Kleindolph](https://extrasleepy.squarespace.com/sfpc-critical-theory-blog/)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
