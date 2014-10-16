@@ -10,3 +10,4 @@
 
 ##Students' Blogs
 * [Toru Urakawa](http://trurkw.tumblr.com/)
+* [Andrew Kleindolph](https://extrasleepy.squarespace.com/sfpc-critical-theory-blog/)
