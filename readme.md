@@ -9,11 +9,13 @@
 ##[Syllabus](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md)
 
 ##Students' Blogs
-* [Toru Urakawa](http://trurkw.tumblr.com/)
+* [Toru Urakawa](http://ctttoru.tumblr.com/)
 * [Lauren Gardner](https://www.tumblr.com/blog/solutionizing)
 * [Meghana Khandekar](http://mkhandekar.tumblr.com/)
 * [Andrew Kleindolph](https://extrasleepy.squarespace.com/sfpc-critical-theory-blog/)
 * [Paige DeRaedt] (http://paigederaedt.tumblr.com/)
+* [Rachel Rose Ulgado](http://r-r-u.tumblr.com/)
+* [Zan Armstrong](http://sfpc.zanarmstrong.com/)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
