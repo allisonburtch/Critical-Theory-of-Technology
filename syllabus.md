@@ -41,11 +41,15 @@ This class at SFPC will provide a critical discussion on some of the most releva
 		* [Douglas Engelbart](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos), [Mother of all Demos](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), 1968
 
 ## Week 3 - Decentralization and its Discontents
+### Decentralized computing, decentralized political organizing, decentralized currencies. While global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/opinion/sunday/fixing-the-digital-economy.html) has disrupted the way we communicate, we've simulaneously seen a massive centralization of power and wealth. _Protocol_ introduces us to how control can exist after decentralization.
 * Friday, October 24th, 1pm
 * Readings
 	* Alexander Galloway, _Protocol_, pgs 3-53 (Introduction and Ch 1 'Physical Media,' though the whole book is worth reading)
 	* [21 Technologies That Will Decentralize the World](http://www.shareable.net/blog/21-technologies-that-will-decentralize-the-world)
 	* Jo Freeman, "[The Tyranny of Structurelessness](http://www.historyisaweapon.com/defcon1/tyrstruct.html)"
+	* Bitcoin
+		- "[Why Bitcoin Matters](http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)," Marc Andreesen
+		- "[Bitcoin is the offshore tax haven of the future](http://www.dailydot.com/business/bitcoin-offshore-tax-haven/)," Aaron Sankin 
 
 ## Week 4 - Utopias and Sci Fi
 * Friday, October 31st, 1pm
