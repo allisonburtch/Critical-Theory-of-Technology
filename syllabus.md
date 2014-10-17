@@ -47,7 +47,7 @@ This class at SFPC will provide a critical discussion on some of the most releva
 
 ## Week 3 - Decentralization and its Discontents
 <em>Decentralized computing, decentralized political organizing, decentralized currencies.</em>
-Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/opinion/sunday/fixing-the-digital-economy.html) have disrupted the way we communicate, seemingly leading to a more democratic society. Simulaneously, we've seen a massive centralization of power and wealth. _Protocol_ introduces us to how control can exist after decentralization.
+Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/opinion/sunday/fixing-the-digital-economy.html) have disrupted the way we communicate, seemingly leading to a more democratic society. Simultaneously, we've seen a massive centralization of power and wealth. _Protocol_ introduces us to how control can exist after decentralization.
 * Friday, October 24th, 1pm
 * Readings
 	* Alexander Galloway, _Protocol_, pgs 3-53 (Introduction and Ch 1 'Physical Media,' though the whole book is worth reading)
