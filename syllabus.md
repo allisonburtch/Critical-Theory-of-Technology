@@ -39,7 +39,9 @@ This class at SFPC will provide a critical discussion on some of the most releva
 	* In class:
 		* Belinda Barnet [interview from 2007](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), if you have time.
 		* [Douglas Engelbart](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos), [Mother of all Demos](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), 1968
-		* Alan Kay, [A personal computer for children of all ages](http://history-computer.com/Library/Kay72.pdf), 1972. Also: ["The Dynabook of Alan Kay"](http://history-computer.com/ModernComputer/Personal/Dynabook.html)
+		* Alan Kay, "[If you could have what you wanted, what would it be like?](https://www.youtube.com/watch?v=r36NNGzNvjo)" 
+			* [A personal computer for children of all ages](http://history-computer.com/Library/Kay72.pdf), 1972. 
+			* Also: ["The Dynabook of Alan Kay"](http://history-computer.com/ModernComputer/Personal/Dynabook.html)
 			* [OLPC](http://www.technologyreview.com/news/506466/given-tablets-but-no-teachers-ethiopian-children-teach-themselves/)
 
 ## Week 3 - Decentralization and its Discontents
