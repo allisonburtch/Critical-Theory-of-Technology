@@ -14,6 +14,7 @@
 * [Meghana Khandekar](http://mkhandekar.tumblr.com/)
 * [Andrew Kleindolph](https://extrasleepy.squarespace.com/sfpc-critical-theory-blog/)
 * [Paige DeRaedt] (http://paigederaedt.tumblr.com/)
+* [Rachel Rose Ulgado](http://r-r-u.tumblr.com/)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
