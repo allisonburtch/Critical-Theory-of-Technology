@@ -43,6 +43,7 @@ This class at SFPC will provide a critical discussion on some of the most releva
 			* [A personal computer for children of all ages](http://history-computer.com/Library/Kay72.pdf), 1972. 
 			* Also: ["The Dynabook of Alan Kay"](http://history-computer.com/ModernComputer/Personal/Dynabook.html)
 			* [OLPC](http://www.technologyreview.com/news/506466/given-tablets-but-no-teachers-ethiopian-children-teach-themselves/)
+		* Frank Chimero, "[What Screens Want](http://frankchimero.com/talks/what-screens-want/transcript/)"
 
 ## Week 3 - Decentralization and its Discontents
 <em>Decentralized computing, decentralized political organizing, decentralized currencies.</em>
