@@ -15,6 +15,7 @@
 * [Andrew Kleindolph](https://extrasleepy.squarespace.com/sfpc-critical-theory-blog/)
 * [Paige DeRaedt] (http://paigederaedt.tumblr.com/)
 * [Rachel Rose Ulgado](http://r-r-u.tumblr.com/)
+* [Zan Armstrong](http://sfpc.zanarmstrong.com/)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
