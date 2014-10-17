@@ -29,4 +29,4 @@
 * Week 7 - Privacy and Surveillance
 	- Todd and Yuki
 * Week 8 - Political Change and Riots
-	- Andrew and meghana
+	- Andrew and Meghana
