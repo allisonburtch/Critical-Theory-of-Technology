@@ -39,10 +39,12 @@ This class at SFPC will provide a critical discussion on some of the most releva
 	* In class:
 		* Belinda Barnet [interview from 2007](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), if you have time.
 		* [Douglas Engelbart](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos), [Mother of all Demos](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), 1968
+		* Alan Kay, [A personal computer for children of all ages](http://history-computer.com/Library/Kay72.pdf), 1972. Also: ["The Dynabook of Alan Kay"](http://history-computer.com/ModernComputer/Personal/Dynabook.html)
+			* [OLPC](http://www.technologyreview.com/news/506466/given-tablets-but-no-teachers-ethiopian-children-teach-themselves/)
 
 ## Week 3 - Decentralization and its Discontents
 <em>Decentralized computing, decentralized political organizing, decentralized currencies.</em>
-Global,[decentralized networds of computers](http://www.nytimes.com/2013/06/09/opinion/sunday/fixing-the-digital-economy.html) have disrupted the way we communicate, seemingly leading to a more democratic society. Simulaneously, we've seen a massive centralization of power and wealth. _Protocol_ introduces us to how control can exist after decentralization.
+Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/opinion/sunday/fixing-the-digital-economy.html) have disrupted the way we communicate, seemingly leading to a more democratic society. Simulaneously, we've seen a massive centralization of power and wealth. _Protocol_ introduces us to how control can exist after decentralization.
 * Friday, October 24th, 1pm
 * Readings
 	* Alexander Galloway, _Protocol_, pgs 3-53 (Introduction and Ch 1 'Physical Media,' though the whole book is worth reading)
