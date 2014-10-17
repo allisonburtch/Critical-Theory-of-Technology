@@ -13,6 +13,7 @@
 * [Lauren Gardner](https://www.tumblr.com/blog/solutionizing)
 * [Meghana Khandekar](http://mkhandekar.tumblr.com/)
 * [Andrew Kleindolph](https://extrasleepy.squarespace.com/sfpc-critical-theory-blog/)
+* [Paige DeRaedt] (http://paigederaedt.tumblr.com/)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
@@ -28,4 +29,4 @@
 * Week 7 - Privacy and Surveillance
 	- Todd and Yuki
 * Week 8 - Political Change and Riots
-	- Andrew and meghana
+	- Andrew and Meghana
