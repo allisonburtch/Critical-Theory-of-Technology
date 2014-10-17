@@ -16,6 +16,7 @@
 * [Paige DeRaedt] (http://paigederaedt.tumblr.com/)
 * [Rachel Rose Ulgado](http://r-r-u.tumblr.com/)
 * [Zan Armstrong](http://sfpc.zanarmstrong.com/)
+* [Yuki Yoshida](http://sfpcyukiy.tumblr.com/)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
