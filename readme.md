@@ -13,7 +13,7 @@
 * [Lauren Gardner](https://www.tumblr.com/blog/solutionizing)
 * [Meghana Khandekar](http://mkhandekar.tumblr.com/)
 * [Andrew Kleindolph](https://extrasleepy.squarespace.com/sfpc-critical-theory-blog/)
-* [Paige DeRaedt](http://paigederaedt.tumblr.com/)
+* [Paige DeRaedt](http://paigederaedt.github.io/blog/)
 * [Rachel Rose Ulgado](http://r-r-u.tumblr.com/)
 * [Zan Armstrong](http://sfpc.zanarmstrong.com/)
 * [Zach Dunham](http://www.zachdunham.com/talk/)
