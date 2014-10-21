@@ -18,6 +18,7 @@
 * [Zan Armstrong](http://sfpc.zanarmstrong.com/)
 * [Zach Dunham](http://www.zachdunham.com/talk/)
 * [Yuki Yoshida](http://sfpcyukiy.tumblr.com/)
+* [Defne Onen](http://defneo.tumblr.com/)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
