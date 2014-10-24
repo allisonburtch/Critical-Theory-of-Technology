@@ -67,8 +67,8 @@ Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/
 		* ["The Ones Who Walk Away from Omelas"](http://www-rohan.sdsu.edu/faculty/dunnweb/rprnts.omelas.pdf)
 		* Essay on mapping, utopias and technology. ["A Non-Euclidean View of California as a Cold Place to Be"](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be)
 		* Intro(pgs 1 and 2) to _The Left Hand of Darkness_
-	* Please don't read this, it's way too much for one week, but I want you to have it for the reference. It's an interesting study on how speculative design in science-fictoon becomes the devices that inventors and technologists create. Nathan Shedroff and Christopher Noessel, _Make It So: Interaction Design Lessons from Science Fiction_
-	
+	* Nathan Shedroff and Christopher Noessel, _Make It So: Interaction Design Lessons from Science Fiction_ - Please don't read this, it's way too much for one week, but I want you to have it for the reference. It's an interesting study on how speculative design in science-fiction ultimately becomes the inventions that technologists create. 
+
 	
 ## Week 5 - Messaging and Language
 * Friday, November 7th, 1pm
