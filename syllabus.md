@@ -59,8 +59,16 @@ Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/
 
 ## Week 4 - Utopias and Sci Fi
 * Friday, October 31st, 1pm
-* Readings
-	* Ursula K. Le Guin - ["A Non-Euclidean View of California as a Cold Place to Be"](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be)
+* Readings - This is a lot, so read what you like -  and if you don't like it, figure out why and then skip it. 
+	* Anne McCaffery - "The Ship Who Sang"
+	* Octavia E. Butler - ["Bloodchild"](http://www.baenebooks.com/chapters/9781625791191/9781625791191___1.htm)
+	* William Gibson - "The Gernsback Continuum"
+	* Ursula K. Le Guin - 
+		* ["The Ones Who Walk Away from Omelas"](http://www-rohan.sdsu.edu/faculty/dunnweb/rprnts.omelas.pdf)
+		* Essay on mapping, utopias and technology. ["A Non-Euclidean View of California as a Cold Place to Be"](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be)
+		* Intro(pgs 1 and 2) to _The Left Hand of Darkness_
+	* Please don't read this, it's way too much for one week, but I want you to have it for the reference. It's an interesting study on how speculative design in science-fictoon becomes the devices that inventors and technologists create. Nathan Shedroff and Christopher Noessel, _Make It So: Interaction Design Lessons from Science Fiction_
+	
 	
 ## Week 5 - Messaging and Language
 * Friday, November 7th, 1pm
