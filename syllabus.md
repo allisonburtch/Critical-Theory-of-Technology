@@ -58,6 +58,7 @@ Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/
 		- "[Bitcoin is the offshore tax haven of the future](http://www.dailydot.com/business/bitcoin-offshore-tax-haven/)," Aaron Sankin 
 
 ## Week 4 - Utopias and Sci Fi
+Ursula K Le Guin writes that science fiction is descriptive, not predictive. And it is in these extrapolations on the present that we are able to see reality with greater clarity. The readings this week explore stories of humanity and utopias, in their various forms.
 * Friday, October 31st, 1pm
 * Readings - This is a lot, so read what you like -  and if you don't like it, figure out why and then skip it. 
 	* Anne McCaffery - "The Ship Who Sang"
