@@ -19,6 +19,7 @@
 * [Zach Dunham](http://www.zachdunham.com/talk/)
 * [Yuki Yoshida](http://sfpcyukiy.tumblr.com/)
 * [Defne Onen](http://defneo.tumblr.com/)
+* [combined list of blogs](http://pipes.yahoo.com/pipes/pipe.run?_id=fa6c7efb8a663c571ed0df3834d40086&_render=rss)
 
 ## Presentation Schedule
 * Week 2 - What was the vision?
