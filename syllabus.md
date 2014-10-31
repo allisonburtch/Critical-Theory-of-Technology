@@ -72,10 +72,10 @@ Ursula K Le Guin writes that science fiction is descriptive, not predictive. And
 
 	
 ## Week 5 - Messaging and Language
-What does sharing mean now that the "sharing economy" is our newest "disruption". What is the collective when a number of [companies](http://gawker.com/please-dont-be-cynical-about-this-new-sites-huge-corpor-1643306161) launch "collectively.org"? How does defining issues become more and more difficult when everything is connected?
+What does sharing mean now that the "sharing economy" is our newest "disruption". What is the collective when a number of [companies](http://gawker.com/please-dont-be-cynical-about-this-new-sites-huge-corpor-1643306161) launch "collectively.org"? How is defining issues difficult when everything is connected?
 
-Please feel free to use Open Frameworks, Processing, design, film or other visual programming styles to blog this week. If you'd prefer to write, that's fine, but I'd love to see more visuals.
 * Friday, November 7th, 1pm
+* Readings - Please feel free to use Open Frameworks, Processing, design, film or other visual programming styles to blog this week. If you'd prefer to write, that's fine, but I'd love to see more visuals.
 	* Jodi Dean, "[Communicative Capitalism: Circulation and the Foreclosure of Politics](http://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf)"
 	* Mike Bulajewski, "[The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html)"
 	* George Orwell, "[Politics and the English Language](https://www.mtholyoke.edu/acad/intrel/orwell46.htm)," 1946 
