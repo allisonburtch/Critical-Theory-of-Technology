@@ -61,7 +61,7 @@ Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/
 Ursula K Le Guin writes that science fiction is descriptive, not predictive. And it is in these extrapolations on the present that we are able to see reality with greater clarity. The readings this week explore stories of humanity and utopias, in their various forms.
 * Friday, October 31st, 1pm
 * Readings - This is a lot, so read what you like -  and if you don't like it, figure out why and then skip it. 
-	* Anne McCaffery - "The Ship Who Sang"
+	* Anne McCaffrey - "The Ship Who Sang"
 	* Octavia E. Butler - ["Bloodchild"](http://www.baenebooks.com/chapters/9781625791191/9781625791191___1.htm)
 	* William Gibson - "The Gernsback Continuum"
 	* Ursula K. Le Guin - 
@@ -72,9 +72,14 @@ Ursula K Le Guin writes that science fiction is descriptive, not predictive. And
 
 	
 ## Week 5 - Messaging and Language
+What does sharing mean now that the "sharing economy" is our newest "disruption". What is the collective when a number of [companies](http://gawker.com/please-dont-be-cynical-about-this-new-sites-huge-corpor-1643306161) launch "collectively.org"? How does defining issues become more and more difficult when everything is connected?
+
+Please feel free to use Open Frameworks, Processing, design, film or other visual programming styles to blog this week. If you'd prefer to write, that's fine, but I'd love to see more visuals.
 * Friday, November 7th, 1pm
-	* Jodi Dean, Communicative Capitalism
-	* "Sharing econony, disruption, collectivity"
+	* Jodi Dean, "[Communicative Capitalism: Circulation and the Foreclosure of Politics](http://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf)"
+	* Mike Bulajewski, "[The Cult of Sharing](http://www.mrteacup.org/post/the-cult-of-sharing.html)"
+	* George Orwell, "[Politics and the English Language](https://www.mtholyoke.edu/acad/intrel/orwell46.htm)," 1946 
+
 
 ## Week 6 - Internet of Things
 * Friday, November 14th, 1pm
