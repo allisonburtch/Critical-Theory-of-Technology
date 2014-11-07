@@ -36,3 +36,4 @@
 	- Todd and Yuki
 * Week 8 - Political Change and Riots
 	- Andrew and Meghana
+* Week 9 - Work on Zine

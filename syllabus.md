@@ -90,14 +90,15 @@ What does sharing mean now that the "sharing economy" is our newest "disruption"
 ## Week 7 - Privacy and Surveillance
 * Friday, November 21st, 1pm
 
-## Week 7 - Political Change and Riots
-* Friday, November 28th, 1pm (This is Thanksgiving weekend - perhaps we should reschedule this to an earlier day?)
+## Week 8 - Political Change and Riots
+* Tuesday, November 25th, 1pm (This is Thanksgiving weekend - perhaps we should reschedule this to an earlier day?)
 	* Jean Baudrillard
 	* Alan Badiou
 	* Critical Art Ensemble
 
-##Weeks 8 - 10 
-We'll discuss the content and structure of the final weeks soon. Perhaps there is an area of study that SFPC students wish to explore, perhaps this is spent preparing and discussing our final project together.
+##Weeks 9 - Final Class
+Design and make the final project into a zine from blog posts. 
+* Friday, December 5th
 
 ### Links
 * [Students](https://github.com/allisonburtch/Critical-Theory-of-Technology#students-blogs)
