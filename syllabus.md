@@ -82,16 +82,17 @@ What does sharing mean now that the "sharing economy" is our newest "disruption"
 
 
 ## Week 6 - Internet of Things
+For this week, we’ll look at our future through connected devices. Cisco thinks [it’s pretty great](http://share.cisco.com/internet-of-things.html). Others are [scared of their televisions](http://www.brennancenter.org/analysis/im-terrified-my-new-tv-why-im-scared-turn-thing#). Driverless cars are going to happen, but perhaps [not as soon as we think](http://www.technologyreview.com/featuredstory/520431/driverless-cars-are-further-away-than-you-think/). The intelligence community is [“intrigued"](http://www.informationweek.com/government/big-data-analytics/internet-of-things-intrigues-intelligence-community/d/d-id/1316025). Bruce Sterling has an interesting take on our future in “The Epic Struggle for the Internet of Things,” which is the assigned reading for this week. 
+
 * Friday, November 14th, 1pm
-* Bruce Sterling, "The Epic Struggle of the Internet of Things"
-* articles
-	* [#IoT and intelligence community](http://www.informationweek.com/government/big-data-analytics/internet-of-things-intrigues-intelligence-community/d/d-id/1316025)
+* Bruce Sterling, ["The Epic Struggle of the Internet of Things"](http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things)
+
 
 ## Week 7 - Privacy and Surveillance
 * Friday, November 21st, 1pm
 
 ## Week 8 - Political Change and Riots
-* Tuesday, November 25th, 1pm (This is Thanksgiving weekend - perhaps we should reschedule this to an earlier day?)
+* Wednesday, November 26th, 3-5pm 
 	* Jean Baudrillard
 	* Alan Badiou
 	* Critical Art Ensemble
