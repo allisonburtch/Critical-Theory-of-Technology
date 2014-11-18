@@ -93,11 +93,12 @@ For this week, we’ll look at our future through connected devices. Cisco think
 * "Surveillance in America," An Interview With Christian Parenti, FLASHPOINTS, KPFA 94.1 FM, Pacifica Radio, Berkeley, California, 2005.
 * Kate Crawford, "[The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/)"
 * Tim Maly, "[On the Leakiness of Surveillance Culture, the Corporate Gaze, and What That Has To Do With the New Aesthetic](http://quietbabylon.com/2012/on-the-leakiness-of-surveillance-culture-the-corporate-gaze-and-what-that-has-to-do-with-the-new-aesthetic/)"
-* Philip E. Agre, "[Surveillance and Capture: Two Models of Privacy](http://www.asounder.org/resources/agre_surveillance.pdf), 1994
+* Philip E. Agre, "[Surveillance and Capture: Two Models of Privacy](http://www.asounder.org/resources/agre_surveillance.pdf), 1994.
+
 Skim this, it's not necessary but good for historical context. 
 * Philip E. Agre, "[Your Face Is Not a Bar Code: Arguments Against Automatic Face Recognition in Public Places](http://polaris.gseis.ucla.edu/pagre/bar-code.html), 2001
 
-Also Lauren McCarthy's [class github](https://github.com/lmccart/AppropriatingInteractionTechnologies/wiki/Security,-surveillance,-and-privacy) has some good resources on surveillance art. 
+Also Lauren McCarthy's [class github](https://github.com/lmccart/AppropriatingInteractionTechnologies/wiki/Security,-surveillance,-and-privacy) has some good resources on surveillance art. And the Artsec [bibliography](https://docs.google.com/document/d/1pIzAObj4aYdRBtgS0MTTW73suGmAUqUQk2_gYwyn2To/edit#).
 
 
 ## Week 8 - Political Change and Riots
