@@ -93,6 +93,7 @@ For this week, we’ll look at our future through connected devices. Cisco think
 * "Surveillance in America," An Interview With Christian Parenti, FLASHPOINTS, KPFA 94.1 FM, Pacifica Radio, Berkeley, California, 2005.
 * Kate Crawford, "[The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/)"
 * Tim Maly, "[On the Leakiness of Surveillance Culture, the Corporate Gaze, and What That Has To Do With the New Aesthetic](http://quietbabylon.com/2012/on-the-leakiness-of-surveillance-culture-the-corporate-gaze-and-what-that-has-to-do-with-the-new-aesthetic/)"
+Phil Agre has a bit of an [interesting disappearance story](http://www.npr.org/blogs/alltechconsidered/2009/11/the_mysterious_disappearance_o.html).
 * Philip E. Agre, "[Surveillance and Capture: Two Models of Privacy](http://www.asounder.org/resources/agre_surveillance.pdf), 1994.
 
 Skim this, it's not necessary but good for historical context. 
