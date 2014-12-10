@@ -109,7 +109,7 @@ PS. If you have an idea already of what you’d like to write (or a blog post yo
 
 * Wednesday, November 26th, 3-5pm 
 	* Alan Badiou, [_The Rebirth of History: Times of Riots and Uprisings_](http://www.versobooks.com/books/1124-the-rebirth-of-history)
-	* Critical Art Ensemble, "[Resisting the Bunker](http://www.critical-art.net/books/ecd/ecd3.pdf)"
+	* Critical Art Ensemble, "[The Mythology of Terrorism on the Net](http://www.critical-art.net/books/digital/tact2.pdf)," 1995.
 
 ##Weeks 9 - Final Class
 Design and make the final project into a zine from blog posts. 
