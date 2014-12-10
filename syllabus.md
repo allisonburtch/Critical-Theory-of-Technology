@@ -103,14 +103,18 @@ Also Lauren McCarthy's [class github](https://github.com/lmccart/AppropriatingIn
 
 
 ## Week 8 - Political Change and Riots
+Much of the discussion of this class has led to the question: if technology isn't the solution, then what is? I had planned for us to read Alan Badiou's _The Rebirth of History: Times of Riots and Uprisings_, but it's much too long and you're all too tired right now. So per our discussion on Friday, we’re going to only have one (short) reading for Wednesday. I’ll bring in some videos/discussions of various protest movements. And if the Darren Wilson verdict is announced, we may just go to Union Square.
+
+PS. If you have an idea already of what you’d like to write (or a blog post you’d like to reformat) for our class zine, I’d love to discuss it with you.  
+
 * Wednesday, November 26th, 3-5pm 
-	* Jean Baudrillard
-	* Alan Badiou
-	* Critical Art Ensemble
+	* Alan Badiou, [_The Rebirth of History: Times of Riots and Uprisings_](http://www.versobooks.com/books/1124-the-rebirth-of-history)
+	* Critical Art Ensemble, "[Resisting the Bunker](http://www.critical-art.net/books/ecd/ecd3.pdf)"
 
 ##Weeks 9 - Final Class
 Design and make the final project into a zine from blog posts. 
 * Friday, December 5th
+	* Link to the zine is [here](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/zine.pdf). Great job everyone!
 
 ### Links
 * [Students](https://github.com/allisonburtch/Critical-Theory-of-Technology#students-blogs)
